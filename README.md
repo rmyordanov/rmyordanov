@@ -12,4 +12,4 @@
 **React / Javascript / PHP / Wordpress / HTML / CSS / SCSS / Node.js / Swift** </br>
 
 ## 🥷 About Me
-*"I don't know who you are. I don't know what you want. If you are looking for coding experience, I can tell you I don't have much. But what I do have are a very particular set of skills, skills I have acquired over a very long career, skills that make me a nightmare for people like you. If you give me a project now, that'll be the end of it. I will not look for you. I will not pursue you. But if you don't, I will look for you, I will find you, and I will find another project."*
+*"I don't know who you are. I don't know what you want. If you are looking for coding experience, I can tell you I don't have much. But what I do have are a very particular set of skills, skills I have acquired over a very long career, skills that make me a nightmare for people like you. If you give me a project now, that'll be the end of it. I will not look for you. I will not pursue you. But if you don't, I will look for you, I will find you, and I will prove you wrong."*
