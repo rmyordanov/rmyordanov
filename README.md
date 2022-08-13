@@ -11,3 +11,4 @@
 ## 💣 Weapons of choice
 **React / Javascript / PHP / Wordpress / HTML / CSS / SCSS / Node.js / Swift** </br>
 
+## 🥷 About Me
