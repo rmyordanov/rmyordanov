@@ -9,5 +9,5 @@ That's what I love about coding the ability to build something from nothing!
 Web Dev / App Dev / and Blockchain.
 
 ## 💣 Weapons of choice
-React / Javascript / PHP / Wordpress / HTML / CSS / SCSS / Node.js / Swift 
+React / Javascript / PHP / Wordpress / HTML / CSS / SCSS / Node.js / Swift </br>
 
