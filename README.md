@@ -14,6 +14,7 @@
 <img src="https://github.com/rmyordanov/rmyordanov/blob/main/react-icon-29.jpeg" height="50">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="50">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="50">
+<img src="https://github.com/rmyordanov/rmyordanov/blob/main/wordpress%20logo.png" height="50">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50">
 
