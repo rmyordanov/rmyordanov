@@ -40,11 +40,3 @@
 * 👨‍💻 Working as a web devoleper at Fine Digital UK. 
 * 🚀 Continuously larning and acquiring new skills everyday.
 * 📖 Currently learning - React.js, JS Backend...
-* 🎯 Interests other than coding: 
-  - business development, 
-  - digital marketing, 
-  - copywriting, 
-  - psychology, 
-  - trading </br>
-
-<p>Everything entrepreneurial is my sh!t</p>
