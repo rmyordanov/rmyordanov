@@ -6,9 +6,9 @@
 **That's what I love about coding the ability to build something from nothing!**</br>
 <p align="center">
   <!-- <summary>:zap: GitHub Stats</summary> -->
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rmyordanov&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&count_private=true&include_all_commits=true" />
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rmyordanov&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&count_private=true&include_all_commits=true" />
 
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmyordanov&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&count_private=true&include_all_commits=true" />
+  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rmyordanov&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&count_private=true&include_all_commits=true" />
 </p>
 
 ## 🤖 Interested In
@@ -27,14 +27,9 @@
 </p>
 
 ## 🥷 About Me
-*"I don't know who you are. I don't know what you want. If you are looking for coding experience, I can tell you I don't have much. But what I do have are a very particular set of skills, skills I have acquired over a very long career, skills that make me a nightmare for people like you. If you give me a project now, that'll be the end of it. I will not look for you. I will not pursue you. But if you don't, I will look for you, I will find you, and I will prove you wrong."*
-
-* 🇧🇬 Rosen from Bulgaria.  
+  
 * 🎓 Bachelor degree in Marine Engineering. 
   - Worked in that field for almost 10 years. 
-* 👨‍🎓 Currently a student studying Software Engineering at Software University Sofia.
-* 📜 Reason to change my carrer 
-  - poor first carrer choice 😃 
+* 👨‍🎓 Currently studying Software Engineering at Software University Sofia.
 * 👨‍💻 Working as a web devoleper at Fine Digital UK. 
 * 🚀 Continuously larning and acquiring new skills everyday.
-* 📖 Currently learning - React.js, JS Backend...
