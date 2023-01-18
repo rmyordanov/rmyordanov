@@ -15,12 +15,11 @@
 **Web Dev / App Dev / and Blockchain.**
 
 ## 💣 Weapons of choice
-**React / Javascript / PHP / Wordpress / HTML / CSS / Node.js** </br>
+**React / Javascript / Wordpress / HTML / CSS / Node.js** </br>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/rmyordanov/rmyordanov/blob/main/react-icon-29.jpeg" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/rmyordanov/rmyordanov/blob/main/nodeJs.png" height="50">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/rmyordanov/rmyordanov/blob/main/wordpress%20logo.png" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50">&nbsp;&nbsp;&nbsp;
