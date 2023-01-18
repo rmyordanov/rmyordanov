@@ -1,4 +1,4 @@
-## Hi there 👋 Ross is here 👽
+## Hi there 👋
 
 
 <p align="center">
